@@ -1,5 +1,6 @@
 <h1>Hi, I'm Sam, an <a href="https://linkedin.com/in/samuiel-abraham">IT Security Professional</a></h1>
-
+<h2> AWS Cloud Project:</h2>
+- [Deploying WordPress Site on AWS] https://github.com/sabraham44/WordPress-Website-on-AWS
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)
