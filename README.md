@@ -11,6 +11,7 @@
   - [osTicket: Prerequisites and Installation] https://github.com/sabraham44/osticket-prereq
   - [osTicket: Post-Installation Configuration] https://github.com/sabraham44/post-install-config
   - [osTicket: Ticket Lifecycle Examples]https://github.com/sabraham44/ticket-lifecycle
+  - [Tenable Nessus: Vulnerability Management] https://github.com/sabraham44/Nessus-Vul-Management- 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs] https://github.com/sabraham44/Configuring-On-premises-Active-Directory-within-Azure-VMs
   - [Network Security Groups (NSGs) and Inspecting Network Protocols] https://github.com/sabraham44/azure-network-protocols
